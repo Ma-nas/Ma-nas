@@ -109,6 +109,26 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 
 ---
 
+## Now Playing on Spotify
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=6C63FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+
+</div>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
 ## Certifications
 
 | Issuer | Credential | Date |
@@ -126,3 +146,4 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 *Open to AI/ML and full-stack internship opportunities — let's build something meaningful.*
 
 </div>
+
