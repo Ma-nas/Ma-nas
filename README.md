@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Manas+Mishra+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Builder;Building+Systems+That+Think)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Manas+Mishra;AI%2FML+Engineer+%7C+Full-Stack+Builder;Building+Systems+That+Think)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-mishra-a05679294/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ma-nas)
@@ -20,11 +20,11 @@ I'm a **B.Tech AI & ML student at Jain University (FET)**, passionate about buil
 
 I work across the full stack: designing ML pipelines in Python, building FastAPI backends, and shipping polished React/TypeScript frontends. My projects reflect a consistent interest in where **language models meet production engineering**.
 
-- 🔬 Currently working on: LLM evaluation infrastructure and intelligent full-stack AI apps
-- 🏢 Previously: Machine Learning Intern @ **CodSoft** (June–July 2025)
-- 📜 Certified in: Transformer-Based NLP (NVIDIA), Deep Learning with Python (LinkedIn Learning), Figma for UX Design (LinkedIn Learning), Git & GitHub (Microsoft Learn Student Ambassador)
-- 🏆 Participated in: **Code Relay 2025** (Jain University Faculty of Engineering & Technology)
-- 🌍 Based in: Bengaluru, India
+- Currently working on: LLM evaluation infrastructure and intelligent full-stack AI apps
+- Previously: Machine Learning Intern @ **CodSoft** (June–July 2025)
+- Certified in: Transformer-Based NLP (NVIDIA), Deep Learning with Python (LinkedIn Learning), Figma for UX Design (LinkedIn Learning), Git & GitHub (Microsoft Learn Student Ambassador)
+- Participated in: **Code Relay 2025** (Jain University Faculty of Engineering & Technology)
+- Based in: Bengaluru, India
 
 ---
 
@@ -66,7 +66,7 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 
 ## Featured Projects
 
-### 🧠 AI / ML
+### AI / ML
 
 | Project | Description | Stack |
 |---|---|---|
@@ -74,11 +74,11 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 | [**Adaptive Proximal Gradient Research**](https://github.com/Ma-nas/Mini_project) | Novel APG-DST optimizer benchmarked against Ridge, LASSO, Elastic Net on a high-dimensional regression task with interactive Flask dashboard | Python · NumPy · scikit-learn · Flask |
 | [**AI Test Case Generator**](https://github.com/Ma-nas/Ai-test-case-generator) | CLI tool that uses Gemini to auto-generate comprehensive pytest test suites from Python source files or function descriptions | Python · Gemini API · pytest |
 
-### 🌐 Full Stack
+### Full Stack
 
 | Project | Description | Stack |
 |---|---|---|
-| [**TourismCo. AI**](https://github.com/Ma-nas/TourismCo.) | AI-powered travel planning OS for Uttar Pradesh — RAG pipeline grounded in official tourism data, generating budget-optimized multi-city itineraries. [Live Demo ↗](https://tourism-co.vercel.app) | React · TypeScript · Node.js · Socket.IO · Gemini RAG |
+| [**TourismCo. AI**](https://github.com/Ma-nas/TourismCo.) | AI-powered travel planning OS for Uttar Pradesh — RAG pipeline grounded in official tourism data, generating budget-optimized multi-city itineraries. [Live Demo](https://tourism-co.vercel.app) | React · TypeScript · Node.js · Socket.IO · Gemini RAG |
 
 ---
 
@@ -99,15 +99,25 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 
 ---
 
+## LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ma-nas?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
+
+---
+
 ## Certifications
 
 | Issuer | Credential | Date |
 |---|---|---|
-| 🟢 **NVIDIA** | Introduction to Transformer-Based NLP | June 2025 |
-| 🔵 **LinkedIn Learning** | Deep Learning with Python: Optimizing Deep Learning Models | April 2026 |
-| 🔵 **LinkedIn Learning** | Figma for UX Design | April 2026 |
-| 🔷 **Microsoft Learn Student Ambassador** | Fundamentals of Git & GitHub | — |
-| 🏫 **Jain University FET** | Code Relay 2025 — Participation | March 2025 |
+| **NVIDIA** | Introduction to Transformer-Based NLP | June 2025 |
+| **LinkedIn Learning** | Deep Learning with Python: Optimizing Deep Learning Models | April 2026 |
+| **LinkedIn Learning** | Figma for UX Design | April 2026 |
+| **Microsoft Learn Student Ambassador** | Fundamentals of Git & GitHub | — |
+| **Jain University FET** | Code Relay 2025 — Participation | March 2025 |
 
 ---
 
