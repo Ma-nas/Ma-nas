@@ -119,16 +119,6 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 
 ---
 
-## Now Playing on Spotify
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31rrngfas3adjwtenseyvuid76vi&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color=6C63FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31rrngfas3adjwtenseyvuid76vi&redirect=true)
-
-</div>
-
----
-
 ## Random Dev Quote
 
 <div align="center">
