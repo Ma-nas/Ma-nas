@@ -109,11 +109,11 @@ I work across the full stack: designing ML pipelines in Python, building FastAPI
 
 ---
 
-## Now Playing on Spotify
+## Activity Graph
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=6C63FF&bar_color_cover=false)](https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ma-nas&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
