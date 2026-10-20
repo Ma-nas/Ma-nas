@@ -1,117 +1,97 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Manas+Mishra+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Builder;Building+Systems+That+Think)](https://git.io/typing-svg)
+# Manas Mishra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-mishra-a05679294/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ma-nas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm7390180@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tourism-co.vercel.app)
+### Machine Learning Engineer | Full-Stack Systems Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ma-nas&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## About Me
-
-I'm a **B.Tech AI & ML student at Jain University (FET)**, passionate about building AI-powered systems that solve real problems — from hallucination detection in LLMs to RAG-grounded travel planning engines.
-
-I work across the full stack: designing ML pipelines in Python, building FastAPI backends, and shipping polished React/TypeScript frontends. My projects reflect a consistent interest in where **language models meet production engineering**.
-
-- 🔬 Currently working on: LLM evaluation infrastructure and intelligent full-stack AI apps
-- 🏢 Previously: Machine Learning Intern @ **CodSoft** (June–July 2025)
-- 📜 Certified in: Transformer-Based NLP (NVIDIA), Deep Learning with Python (LinkedIn Learning), Figma for UX Design (LinkedIn Learning), Git & GitHub (Microsoft Learn Student Ambassador)
-- 🏆 Participated in: **Code Relay 2025** (Jain University Faculty of Engineering & Technology)
-- 🌍 Based in: Bengaluru, India
-
----
-
-## Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-
-**LLM Integrations**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Full Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🧠 AI / ML
-
-| Project | Description | Stack |
-|---|---|---|
-| [**EvalForge**](https://github.com/Ma-nas/EvalForge) | Production-grade LLM evaluation, hallucination detection, and multi-model benchmarking platform with a React dashboard | Python · FastAPI · React · SQLite · Sentence Transformers |
-| [**Adaptive Proximal Gradient Research**](https://github.com/Ma-nas/Mini_project) | Novel APG-DST optimizer benchmarked against Ridge, LASSO, Elastic Net on a high-dimensional regression task with interactive Flask dashboard | Python · NumPy · scikit-learn · Flask |
-| [**AI Test Case Generator**](https://github.com/Ma-nas/Ai-test-case-generator) | CLI tool that uses Gemini to auto-generate comprehensive pytest test suites from Python source files or function descriptions | Python · Gemini API · pytest |
-
-### 🌐 Full Stack
-
-| Project | Description | Stack |
-|---|---|---|
-| [**TourismCo. AI**](https://github.com/Ma-nas/TourismCo.) | AI-powered travel planning OS for Uttar Pradesh — RAG pipeline grounded in official tourism data, generating budget-optimized multi-city itineraries. [Live Demo ↗](https://tourism-co.vercel.app) | React · TypeScript · Node.js · Socket.IO · Gemini RAG |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ma-nas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-nas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ma-nas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-mishra-a05679294/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ma-nas)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mm7390180@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://tourism-co.vercel.app)
 
 </div>
 
 ---
 
-## Certifications
+## Executive Summary
 
-| Issuer | Credential | Date |
-|---|---|---|
-| 🟢 **NVIDIA** | Introduction to Transformer-Based NLP | June 2025 |
-| 🔵 **LinkedIn Learning** | Deep Learning with Python: Optimizing Deep Learning Models | April 2026 |
-| 🔵 **LinkedIn Learning** | Figma for UX Design | April 2026 |
-| 🔷 **Microsoft Learn Student Ambassador** | Fundamentals of Git & GitHub | — |
-| 🏫 **Jain University FET** | Code Relay 2025 — Participation | March 2025 |
+Undergraduate engineer in Artificial Intelligence and Machine Learning at Jain University (Faculty of Engineering and Technology), specializing in applied machine learning, LLM evaluation pipelines, and production full-stack systems. Experience spans designing quantitative evaluation benchmarks, building retrieval-augmented generation (RAG) engines, and deploying end-to-end web architectures using FastAPI, Spring Boot, and React.
+
+- **Current Focus:** LLM evaluation frameworks, automated claim verification, and RAG optimization.
+- **Previous Experience:** Machine Learning Intern at CodSoft (June - July 2025).
+- **Location:** Bengaluru, Karnataka, India.
 
 ---
 
+## Technical Competencies
+
+| Domain | Technologies and Frameworks |
+| :--- | :--- |
+| **Machine Learning & NLP** | Python, PyTorch, scikit-learn, NumPy, Pandas, Sentence Transformers, FAISS |
+| **Generative AI & LLMs** | Google Gemini API, OpenAI API, LangChain, RAG Pipelines, Prompt Engineering |
+| **Backend Engineering** | FastAPI, Spring Boot, Flask, Node.js, RESTful APIs, JWT Authentication |
+| **Frontend Engineering** | React 18/19, TypeScript, Tailwind CSS, Vite, HTML5, Vanilla CSS |
+| **Data & Infrastructure** | PostgreSQL (Row-Level Security), SQLite, Docker, Git, GitHub Actions, Vercel |
+
+---
+
+## Core Repositories & Engineering Highlights
+
+### Machine Learning & LLM Systems
+
+- **[EvalForge](https://github.com/Ma-nas/EvalForge)**
+  *Production-grade LLM evaluation, hallucination detection, and multi-model benchmarking matrix.*
+  - Implements atomic claim decomposition and semantic embedding comparison against ground truth.
+  - Computes composite similarity, prompt relevance, context precision, and latency/cost trade-offs.
+  - Built with Python, FastAPI, React 19, TypeScript, and SQLite.
+
+- **[Privacy-Preserving Catalog Intelligence](https://github.com/Ma-nas/Privacy-Preserving-Catalog-Intelligence-System)**
+  *Enterprise multi-tenant catalog enrichment platform with database-enforced Row-Level Security (RLS).*
+  - Enforces zero cross-tenant data leakage directly at the PostgreSQL kernel level.
+  - Features asynchronous job distribution with Celery and Redis.
+
+- **[TapNex AI Support Agent](https://github.com/Ma-nas/tapnex)**
+  *Event technology support system powered by local semantic retrieval and high-throughput inference.*
+  - Local embedding execution with `all-MiniLM-L6-v2` and FAISS vector index.
+  - Low-latency inference via Groq and Llama 3 with strict hallucination-prevention constraints.
+
+- **[AI Test Case Generator](https://github.com/Ma-nas/Ai-test-case-generator)**
+  *Command-line developer utility that parses Python source code and automatically generates pytest suites.*
+  - Leverages Google Gemini to cover boundary conditions, edge cases, and exception assertions.
+
+### Full-Stack & Systems Architecture
+
+- **[TourismCo. AI](https://github.com/Ma-nas/TourismCo.)**
+  *Intelligent travel operating system and itinerary generator for Uttar Pradesh.*
+  - RAG architecture grounded in verified state tourism corpora.
+  - Multi-tiered budget optimization with live collaborative features via Socket.IO.
+
+- **[Attendance Management System](https://github.com/Ma-nas/Attandance-Managment-system)**
+  *Enterprise attendance tracking platform with granular Role-Based Access Control (RBAC).*
+  - Built with Java 21, Spring Boot, Spring Data JPA, and PostgreSQL.
+  - React/TypeScript frontend with distinct workflows for Administrators, Trainers, and Students.
+
+- **[Link Management Platform](https://github.com/Ma-nas/vibe)**
+  *Client-side link shortening and lifecycle governance suite.*
+  - In-place destination updates, click caps, automated expiration, and persistent session routing.
+
+---
+
+## Certifications & Training
+
+- **Transformer-Based Natural Language Processing** - NVIDIA
+- **Deep Learning with Python: Optimization Techniques** - LinkedIn Learning
+- **UX & Interface Architecture in Figma** - LinkedIn Learning
+- **Git & GitHub Version Control Fundamentals** - Microsoft Learn Student Ambassador
+- **Code Relay 2025 Participant** - Jain University (FET)
+
+---
+
+## Activity Matrix
+
 <div align="center">
 
-*Open to AI/ML and full-stack internship opportunities — let's build something meaningful.*
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ma-nas&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Profile Metrics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-nas&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
