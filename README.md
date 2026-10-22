@@ -75,6 +75,16 @@ Undergraduate engineer in Artificial Intelligence and Machine Learning at Jain U
   *Client-side link shortening and lifecycle governance suite.*
   - In-place destination updates, click caps, automated expiration, and persistent session routing.
 
+- **[ResumeForge AI](https://github.com/Ma-nas/ResumeForge-AI)**
+  *Client-side generative AI engine for dynamic job-targeted LaTeX resumes.*
+  - Automated job description decomposition and weighted portfolio relevance scoring.
+  - Generates compilable, hyperlinked one-page LaTeX resumes formatted with Jake Ryan templates.
+
+- **[Java Systems & Algorithms](https://github.com/Ma-nas/java)**
+  *Computer science fundamentals, modular data structures, and graph algorithms in Java.*
+  - In-place QuickSort, Binary Search Trees, and Depth-First Search graph traversals.
+  - Clean object-oriented design patterns with zero external dependencies.
+
 ---
 
 ## Certifications & Training
