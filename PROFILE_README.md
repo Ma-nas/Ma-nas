@@ -1,118 +1,60 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Hey%2C+I'm+Manas+Mishra+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Builder;Building+Systems+That+Think)](https://git.io/typing-svg)
+# Manas Mishra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-mishra-a05679294/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ma-nas)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://tourism-co.vercel.app)
+**AI/ML Systems Engineer & Full-Stack Builder**  
+B.Tech CSE (AI & ML) • Jain University FET, Bengaluru • Ex-CodSoft ML Intern
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ma-nas&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## About Me
-
-I'm a **B.Tech AI & ML student at Jain University (FET)**, passionate about building AI-powered systems that solve real problems — from hallucination detection in LLMs to RAG-grounded travel planning engines.
-
-I work across the full stack: designing ML pipelines in Python, building FastAPI backends, and shipping polished React/TypeScript frontends. My projects reflect a consistent interest in where **language models meet production engineering**.
-
-- 🔬 Currently working on: LLM evaluation infrastructure and intelligent full-stack AI apps
-- 🏢 Previously: Machine Learning Intern @ **CodSoft** (June–July 2025)
-- 📜 Certified in: Transformer-Based NLP (NVIDIA), Deep Learning with Python (LinkedIn Learning), Figma for UX Design (LinkedIn Learning), Git & GitHub (Microsoft Learn Student Ambassador)
-- 🏆 Participated in: **Code Relay 2025** (Jain University Faculty of Engineering & Technology)
-- 🌍 Based in: Bengaluru, India
-
----
-
-## Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-
-**LLM Integrations**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Full Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🧠 AI / ML
-
-| Project | Description | Stack |
-|---|---|---|
-| [**EvalForge**](https://github.com/Ma-nas/EvalForge) | Production-grade LLM evaluation, hallucination detection, and multi-model benchmarking platform with a React dashboard | Python · FastAPI · React · SQLite · Sentence Transformers |
-| [**Adaptive Proximal Gradient Research**](https://github.com/Ma-nas/Mini_project) | Novel APG-DST optimizer benchmarked against Ridge, LASSO, Elastic Net on a high-dimensional regression task with interactive Flask dashboard | Python · NumPy · scikit-learn · Flask |
-| [**AI Test Case Generator**](https://github.com/Ma-nas/Ai-test-case-generator) | CLI tool that uses Gemini to auto-generate comprehensive pytest test suites from Python source files or function descriptions | Python · Gemini API · pytest |
-
-### 🌐 Full Stack
-
-| Project | Description | Stack |
-|---|---|---|
-| [**TourismCo. AI**](https://github.com/Ma-nas/TourismCo.) | AI-powered travel planning OS for Uttar Pradesh — RAG pipeline grounded in official tourism data, generating budget-optimized multi-city itineraries. [Live Demo ↗](https://tourism-co.vercel.app) | React · TypeScript · Node.js · Socket.IO · Gemini RAG |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ma-nas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ma-nas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ma-nas&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://portfolio-nine-xi-77.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-portfolio--nine--xi--77.vercel.app-1D1D1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
+  <a href="https://portfolio-nine-xi-77.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/Verified_Resume-PDF-4A82C8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/manas-mishra-a05679294/"><img src="https://img.shields.io/badge/LinkedIn-Manas_Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manasmishra131005@gmail.com"><img src="https://img.shields.io/badge/Email-manasmishra131005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-## Certifications
+### Executive Profile
 
-| Issuer | Credential | Date |
-|---|---|---|
-| 🟢 **NVIDIA** | Introduction to Transformer-Based NLP | June 2025 |
-| 🔵 **LinkedIn Learning** | Deep Learning with Python: Optimizing Deep Learning Models | April 2026 |
-| 🔵 **LinkedIn Learning** | Figma for UX Design | April 2026 |
-| 🔷 **Microsoft Learn Student Ambassador** | Fundamentals of Git & GitHub | — |
-| 🏫 **Jain University FET** | Code Relay 2025 — Participation | March 2025 |
+Undergraduate Computer Science (AI & ML) engineer at **Jain University FET, Bengaluru** and former Machine Learning Intern at **CodSoft**. I build reliable, production-oriented software spanning LLM evaluation matrices, differential privacy engines, and full-stack web platforms.
+
+- **Explore My Work**: **[portfolio-nine-xi-77.vercel.app ↗](https://portfolio-nine-xi-77.vercel.app)** (interactive case studies, architecture notes, and verified credentials)
+- **Primary Technical Domains**: LLMOps & Evaluation, Differential Privacy, High-Concurrency Backends, and Modern Frontend Interfaces.
+- **Accredited Certifications**: NVIDIA Certified in *Transformer-Based NLP* ([Verify ID: 9icw86RHQG277r6jODreOA](https://learn.nvidia.com/certificates?id=9icw86RHQG277r6jODreOA)), Coursera *Data Science & ML*, Coursera *DevOps Essentials*.
 
 ---
 
-<div align="center">
+### Project Showcase by Domain
 
-*Open to AI/ML and full-stack internship opportunities — let's build something meaningful.*
+#### 1. AI, Machine Learning & LLM Systems
+- **[EvalForge](https://github.com/Ma-nas/EvalForge)**: Observability platform decomposing LLM responses into atomic declarative claims to quantitatively benchmark semantic faithfulness, factual consistency, and inference cost tradeoffs across models. (*Python, FastAPI, PyTorch, React 19, Tailwind CSS*)
+- **[ResumeForge AI](https://github.com/Ma-nas/ResumeForge-AI)**: Document parser analyzing resumes against target job descriptions, extracting skill gaps with NER, and compiling ATS-compliant clean LaTeX resumes. (*Python, spaCy, scikit-learn, LaTeX, Gemini API*)
+- **[TapNex AI Support](https://github.com/Ma-nas/tapnex)**: NFC event assistant utilizing localized Sentence-BERT embeddings in FAISS with sub-second Groq Llama 3 inference. (*LangChain, FAISS, Groq, Streamlit*)
 
-</div>
+#### 2. Privacy, Cloud & Distributed Backends
+- **[Privacy-Preserving Catalog Intelligence](https://github.com/Ma-nas/Privacy-Preserving-Catalog-Intelligence-System)**: Secure analytics engine enabling clustering and anomaly detection on proprietary catalogs with Laplace differential privacy and salted SHA-256 k-anonymity auditing. (*Python, NumPy, FastAPI, Differential Privacy*) • [Live Demo ↗](https://mini-project-pied-nine.vercel.app)
+- **[Attendance Management System](https://github.com/Ma-nas/Attandance-Managment-system)**: Institutional platform with multi-role access control (Admin, Trainer, Student), tamper-evident audit logs, and automated compliance reporting. (*Java 21, Spring Boot 3, PostgreSQL, FastAPI*)
+
+#### 3. Developer Tools & Automation
+- **[AI Test Case Generator](https://github.com/Ma-nas/Ai-test-case-generator)**: AST-driven code inspection tool discovering functional edge cases and synthesizing executable Pytest test suites. (*Python, AST Analysis, Pytest, Next.js, TypeScript*) • [Live Demo ↗](https://ai-test-case-generator-six.vercel.app)
+
+#### 4. Full-Stack & Travel Platforms
+- **[Personal Portfolio (Frosted Silver)](https://github.com/Ma-nas/Portfolio)**: Apple-inspired Liquid Glass personal developer portfolio. Light-first design, mobile responsive case studies, and 100% verified footprint. (*React 18, TypeScript, Vite, Tailwind CSS*) • [Live ↗](https://portfolio-nine-xi-77.vercel.app)
+- **[TourismCo. AI](https://github.com/Ma-nas/TourismCo.)**: Multi-constraint travel planner with dynamic route sequencing, local clustering, and budget forecasting. (*Next.js, TypeScript, Node.js, Socket.IO*) • [Live Demo ↗](https://tourism-co.vercel.app)
+
+#### 5. Data Science & Predictive Analytics
+- **[Credit Risk & Churn Management](https://github.com/Ma-nas/Credit-risk-managment)**: Supervised tabular classification with SMOTE balancing, feature scaling, and ROC-AUC validation (CodSoft). (*Python, scikit-learn, Pandas*)
+- **[Consumption Forecast](https://github.com/Ma-nas/consumption-forecast)**: Time-series forecasting and multi-variable regression analysis. (*Python, Pandas, NumPy, scikit-learn*)
+- **[Java Systems & Algorithms](https://github.com/Ma-nas/java)**: Standard implementations of search trees, sorting, and graph traversals. (*Java SE, OOP, Data Structures*)
+
+---
+
+### Contact & Connect
+
+- **Portfolio**: [portfolio-nine-xi-77.vercel.app](https://portfolio-nine-xi-77.vercel.app)
+- **Email**: [manasmishra131005@gmail.com](mailto:manasmishra131005@gmail.com)
+- **LinkedIn**: [linkedin.com/in/manas-mishra-a05679294](https://www.linkedin.com/in/manas-mishra-a05679294/)
+- **GitHub**: [github.com/Ma-nas](https://github.com/Ma-nas)
+- **Location**: Bengaluru, Karnataka, India
