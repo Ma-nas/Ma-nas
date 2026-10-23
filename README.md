@@ -22,7 +22,7 @@ Ex-Machine Learning Intern at CodSoft
 I engineer trustworthy AI architectures, Large Language Model evaluation pipelines, and resilient distributed backends. My technical focus centers on bridging statistical models with reliable production systems: quantitative hallucination auditing, differential privacy guarantees, and high-throughput REST APIs.
 
 - **Primary Destination**: Explore interactive case studies, system architecture diagrams, and credential verifications on my **[Personal Developer Portfolio ↗](https://portfolio-nine-xi-77.vercel.app)**.
-- **Academic Foundation**: Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence and Machine Learning) at **Jain University FET, Bengaluru** (2022–2027).
+- **Academic Foundation**: Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence and Machine Learning) at **Jain University FET, Bengaluru** (2023–2027).
 - **Industry Experience**: Former Machine Learning Intern at **CodSoft** (June–July 2025), building supervised risk-scoring pipelines, customer churn classifiers, and text processing workflows.
 - **Accredited Credentials**: NVIDIA Certified in *Transformer-Based Natural Language Processing* ([Verify ID: 9icw86RHQG277r6jODreOA](https://learn.nvidia.com/certificates?id=9icw86RHQG277r6jODreOA)), Coursera *Data Science & ML with Python*, and *DevOps Essentials*.
 
